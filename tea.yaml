@@ -4,3 +4,16 @@ version: 1.0.0
 codeOwners:
   - '0xa591B394ED93E760145B7D3284D3b3bE6b300FB3'
 quorum: 1
+
+<section class="site-hero" style="background-image: url(images/IMG_0457.JPG); " id="section-home" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row intro-text align-items-center justify-content-center">
+				<div class="col-md-10 text-center pt-5">
+
+					<h1 class="site-heading site-animate"> <strong class="d-block">  <small size="3px"> SDE.CCNA.</small>Mubarak MD. Yusuf</strong></h1>
+					<strong class="d-block text-white text-uppercase letter-spacing">MD/CEO. HyperTech labs</strong>
+
+				</div>
+			</div>
+		</div>
+	</section> <!-- section -->
